@@ -1,0 +1,9 @@
+tap "homebrew/cask"
+tap "homebrew/cask-fonts"
+tap "homebrew/cask-versions"
+
+cask "firefox"
+cask "font-fira-code"
+# cask "maccy"
+# cask "raycast"
+# cask "visual-studio-code"
