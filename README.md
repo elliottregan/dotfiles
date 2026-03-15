@@ -22,5 +22,5 @@
 
 4. Install Claude Code:
    ```sh
-   npm install -g @anthropic-ai/claude-code
+   curl -fsSL https://claude.ai/install.sh | sh
    ```
