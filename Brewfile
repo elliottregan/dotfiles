@@ -2,6 +2,7 @@
 brew "git"
 brew "gh"
 brew "difftastic"
+brew "just"
 
 # cli tools
 brew "bat"
