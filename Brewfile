@@ -14,5 +14,6 @@ brew "zoxide"
 # apps
 cask "orbstack"
 cask "ghostty"
+cask "tailscale"
 cask "firefox"
 cask "font-fira-code"
