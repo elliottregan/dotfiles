@@ -7,6 +7,7 @@ brew "fnm"
 
 # cli tools
 brew "bat"
+brew "btop"
 brew "fd"
 brew "fzf"
 brew "jq"
