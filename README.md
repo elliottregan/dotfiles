@@ -20,7 +20,12 @@
    gh auth setup-git
    ```
 
-4. Install Claude Code:
+4. Apply macOS preferences:
+   ```sh
+   ./macos.sh
+   ```
+
+5. Install Claude Code:
    ```sh
    curl -fsSL https://claude.ai/install.sh | sh
    ```
